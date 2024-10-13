@@ -10,6 +10,6 @@ I'm a Computer Engineering student with a passion for Data Science, AI/ML, and C
 📫 How to reach me: omsantoshsongire23@gmail.com
 
 ## 🌐 Socials:
-- [LinkedIn](https://www.linkedin.com/in/omsongire/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/omprakashmane/](https://www.linkedin.com/in/omsongire/))
 
 
