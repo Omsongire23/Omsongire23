@@ -23,6 +23,6 @@ I'm always up for teaming up on interesting projects, especially those that make
 🌐 Socials:
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/omsongire/)
-- ![Gmail](https://img.shields.io/badge/Gmail-omsantoshsongire23%40gmail.com-D14836?style=flat-square&logo=gmail)
+[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=flat-square&logo=gmail)](mailto:omsantoshsongire23@gmail.com)
 
 
