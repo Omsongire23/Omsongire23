@@ -24,5 +24,5 @@ Python, Data Analysis, Machine Learning, and the journey of becoming a Data Scie
 - 📧 Email: [omsantoshsongire23@gmail.com]
 
 🌐 Socials:
-- LinkedIn: (https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/omprakashmane/](https://www.linkedin.com/in/omsongire/))  
-- Discord:[Join My Server](https://img.shields.io/badge/Discord-Join-blue?style=for-the-badge&logo=discord)](https://discord.gg/b9n4eHKd)
+LinkedIn: (https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/omprakashmane/](https://www.linkedin.com/in/omsongire/))  
+
