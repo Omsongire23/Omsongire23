@@ -1,9 +1,11 @@
 Hi there 👋 I'm Om Songire
 
 🎓 Computer Engineering Student 
+
 💡 Aspiring Data Scientist with a passion for AI/ML and Data Analysis
 
 🧑‍💻 About Me
+
 I'm currently Studying Computer Engineering at MVP's KBTCOE, Nashik, and am deeply interested in solving real-world problems through Data Science and AI/ML. My journey has led me to explore various tools and frameworks, and I'm especially focused on projects that make an impact.
 
 - 🔍 Curious Explorer | Currently delving into AI/ML, Data Science and Web Development 
