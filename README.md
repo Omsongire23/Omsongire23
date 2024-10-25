@@ -17,12 +17,12 @@ I'm currently Studying Computer Engineering at MVP's KBTCOE, Nashik, and am deep
  🤝 Let's Collaborate!
 I'm always up for teaming up on interesting projects, especially those that make a difference in Data Science, AI/ML. Whether it’s for research, open-source, or hackathons, feel free to reach out!
 
- 💬 Ask Me About
-Python, Data Analysis, Machine Learning, and the journey of becoming a Data Scientist!
 
 📫 Connect with Me
-- 📧 Email: [omsantoshsongire23@gmail.com]
 
 🌐 Socials:
-LinkedIn: (https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/omprakashmane/](https://www.linkedin.com/in/omsongire/))  
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/omsongire/)
+- ![Gmail](https://img.shields.io/badge/Gmail-omsantoshsongire23%40gmail.com-D14836?style=flat-square&logo=gmail)
+
 
