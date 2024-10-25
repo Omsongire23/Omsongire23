@@ -22,7 +22,7 @@ I'm always up for teaming up on interesting projects, especially those that make
 
 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/-blue?style=flat-square&logo=linkedin&logoColor=white&logoWidth=50)](https://www.linkedin.com/in/omsongire/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=transparent&logoWidth=50)](mailto:omsantoshsongire23@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omsongire/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=transparent)](mailto:omsantoshsongire23@gmail.com)
 
 
