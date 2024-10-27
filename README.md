@@ -27,8 +27,9 @@ I'm always up for teaming up on interesting projects, especially those that make
 [![LinkedIn](https://img.shields.io/badge/-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omsongire/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=transparent)](mailto:omsantoshsongire23@gmail.com)
 
-![My Holopin Badge]([IMAGE_URL](https://www.holopin.io/userbadge/cm298jf13131150ckxzls030f8))
-![My Holopin Badge]([[IMAGE_URL](https://www.holopin.io/userbadge/cm298jf13131150ckxzls030f8)](https://www.holopin.io/hacktoberfest2024/userbadge/cm2r83vnr107750cjrdi8g2aww))
+![image](https://github.com/user-attachments/assets/56829740-7f7e-4454-989c-23dc366d963c)
+https://assets.holopin.io/hf2024levels/level1-sloth-code-0-0-0-0.webp
+
 
 
 
