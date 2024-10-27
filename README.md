@@ -27,9 +27,6 @@ I'm always up for teaming up on interesting projects, especially those that make
 [![LinkedIn](https://img.shields.io/badge/-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omsongire/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=transparent)](mailto:omsantoshsongire23@gmail.com)
 
-![image](https://github.com/user-attachments/assets/56829740-7f7e-4454-989c-23dc366d963c)
-![image](https://github.com/user-attachments/assets/252c3d2c-775c-4f59-b1e1-8147bfd48c31)
-
 
 
 
