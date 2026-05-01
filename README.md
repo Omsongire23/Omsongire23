@@ -7,10 +7,12 @@ Aspiring Data Scientist | AI/ML & Data Science Enthusiast
 
 <br>
 
-🌱 I’m currently building expertise in Python, Data Science, and Machine Learning.  
-🔍 Passionate about solving real-world problems through Data Science and AI/ML.  
-🔭 Exploring AI/ML, Data Science, and Web Development to make impactful projects.  
-⚙️ Constantly learning and improving through open-source contributions and community projects.  
+Computer Engineering student with a strong enthusiasm for Data Science, Artificial Intelligence, and Machine Learning.  
+
+Focused on building data-driven solutions and solving real-world problems through hands-on projects and practical implementation.  
+
+Continuously learning and improving through self-learning, project-based practice, and active engagement with the developer community.  
+ 
 
 <br>
 
