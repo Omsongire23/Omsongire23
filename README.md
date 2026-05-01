@@ -1,7 +1,23 @@
 <div align="center">
-# 👋Hi, I'm Om Songire💫
 
-<br>🎓 Computer Engineering Student @ MVP's KBTCOE, Nashik<br>Aspiring Data Scientist | AI/ML & Data Science Enthusiast<br><br>🌱 I’m currently building expertise in Python, Data Science, and Machine Learning.<br>🔍 Passionate about solving real-world problems through Data Science and AI/ML.<br>🔭 Exploring AI/ML, Data Science, and Web Development to make impactful projects.<br>⚙️ Constantly learning and improving through open-source contributions and community projects.<br><br>Contact Me<br>Email: omsantoshsongire23@gmail.com
+# 👋 Hi, I'm Om Songire 💫
+
+🎓 Computer Engineering Student @ MVP's KBTCOE, Nashik  
+Aspiring Data Scientist | AI/ML & Data Science Enthusiast  
+
+<br>
+
+🌱 I’m currently building expertise in Python, Data Science, and Machine Learning.  
+🔍 Passionate about solving real-world problems through Data Science and AI/ML.  
+🔭 Exploring AI/ML, Data Science, and Web Development to make impactful projects.  
+⚙️ Constantly learning and improving through open-source contributions and community projects.  
+
+<br>
+
+### Contact Me  
+omsantoshsongire23@gmail.com  
+
+</div>
 
 
 ## 🌐 Socials:
